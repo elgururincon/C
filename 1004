@@ -3,13 +3,13 @@
 int main() 
 {
 
-   int A, B, PROD;
+   int A, B, producto;
    scanf("%d", &A);
    scanf("%d", &B);
 
-   PROD = (A * B);
+   producto = (A * B);
 
-   printf("PROD = %d\n", PROD);
+   printf("PROD = %d\n", producto);
 
    return (0);
 }
